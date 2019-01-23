@@ -3,6 +3,6 @@ Usage:
 
   ```
   npm install
-  app.js --help
-  app.js -f 'e' --text "TEST" --key '#@uD!tx#~'
+  node app.js --help
+  node app.js -f 'e' --text "TEST" --key '#@uD!tx#~'
   ```
